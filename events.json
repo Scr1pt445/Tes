@@ -1,0 +1,145 @@
+{
+  "events": [
+    {
+      "timestamp": 1750408745654,
+      "user": "s@s.s",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750408987664,
+      "user": "s@s.s",
+      "action": "Выход из системы"
+    },
+    {
+      "timestamp": 1750409006483,
+      "user": "s@s.s",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750409024625,
+      "user": "s@s.s",
+      "action": "Создание пользователя",
+      "details": "Пользователь: dimayk12@gmail.com, Роль: admin"
+    },
+    {
+      "timestamp": 1750409066969,
+      "user": "s@s.s",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750409068504,
+      "user": "s@s.s",
+      "action": "Обновление пароля",
+      "details": "Пользователь: dimayk12@gmail.com"
+    },
+    {
+      "timestamp": 1750409068763,
+      "user": "s@s.s",
+      "action": "Обновление пароля",
+      "details": "Пользователь: dimayk12@gmail.com"
+    },
+    {
+      "timestamp": 1750409069022,
+      "user": "s@s.s",
+      "action": "Обновление пароля",
+      "details": "Пользователь: dimayk12@gmail.com"
+    },
+    {
+      "timestamp": 1750409069268,
+      "user": "s@s.s",
+      "action": "Обновление пароля",
+      "details": "Пользователь: dimayk12@gmail.com"
+    },
+    {
+      "timestamp": 1750409069521,
+      "user": "s@s.s",
+      "action": "Обновление пароля",
+      "details": "Пользователь: dimayk12@gmail.com"
+    },
+    {
+      "timestamp": 1750409075480,
+      "user": "s@s.s",
+      "action": "Выход из системы"
+    },
+    {
+      "timestamp": 1750409086627,
+      "user": "dimayk12@gmail.com",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750409125491,
+      "user": "dimayk12@gmail.com",
+      "action": "Создание пользователя",
+      "details": "Пользователь: user@gmail.com, Роль: user"
+    },
+    {
+      "timestamp": 1750409149938,
+      "user": "dimayk12@gmail.com",
+      "action": "Создание группы",
+      "details": "Группа: test_g"
+    },
+    {
+      "timestamp": 1750418407158,
+      "user": "dimayk12@gmail.com",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750421690783,
+      "user": "dimayk12@gmail.com",
+      "action": "Вход в админ-панель"
+    },
+    {
+      "timestamp": 1750421719042,
+      "user": "dimayk12@gmail.com",
+      "action": "Обновление группы",
+      "details": "Группа: test_g, Пользователь: dimayk12@gmail.com, Действие: Добавлен"
+    },
+    {
+      "timestamp": 1750421723558,
+      "user": "dimayk12@gmail.com",
+      "action": "Обновление группы",
+      "details": "Группа: test_g, Пользователь: dimayk12@gmail.com, Действие: Удалён"
+    },
+    {
+      "timestamp": 1750421724403,
+      "user": "dimayk12@gmail.com",
+      "action": "Обновление группы",
+      "details": "Группа: test_g, Пользователь: user@gmail.com, Действие: Добавлен"
+    },
+    {
+      "timestamp": 1750421731347,
+      "user": "dimayk12@gmail.com",
+      "action": "Изменение прав",
+      "details": "Группа: test_g, Путь: 00 - Папка 1, Права: edit"
+    },
+    {
+      "timestamp": 1750421733393,
+      "user": "dimayk12@gmail.com",
+      "action": "Изменение прав",
+      "details": "Группа: test_g, Путь: 00 - Папка 1/Подпапка 1, Права: read"
+    },
+    {
+      "timestamp": 1750421739460,
+      "user": "dimayk12@gmail.com",
+      "action": "Изменение прав",
+      "details": "Группа: test_g, Путь: 01 - Папка 2, Права: edit"
+    },
+    {
+      "timestamp": 1750421744231,
+      "user": "dimayk12@gmail.com",
+      "action": "Изменение прав",
+      "details": "Группа: test_g, Путь: 00 - Папка 1, Права: full"
+    },
+    {
+      "timestamp": 1750421746309,
+      "user": "dimayk12@gmail.com",
+      "action": "Изменение прав",
+      "details": "Группа: test_g, Путь: 00 - Папка 1, Права: read"
+    },
+    {
+      "timestamp": 1750421967358,
+      "user": "dimayk12@gmail.com",
+      "action": "Вход в админ-панель"
+    }
+  ]
+}

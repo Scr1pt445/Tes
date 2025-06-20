@@ -1,0 +1,13 @@
+{
+  "currentUser": {
+    "email": "dimayk12@gmail.com",
+    "password": "vvvvv",
+    "role": "admin",
+    "token": "qvm6NPhV74OOwyJFMS6litgiuP722WrdHv7EYqIrrpA="
+  },
+  "firstAdminSetupDone": true,
+  "gitRepoUrl": "",
+  "gitBranch": "main",
+  "gitAuthToken": "",
+  "encryptionKey": "A4gA3yUBikVXVNguKRiI4qjXXOSR8ZqqiJ5TYZjJJLQ="
+}
